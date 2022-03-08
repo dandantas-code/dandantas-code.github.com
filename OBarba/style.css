@@ -7,7 +7,7 @@
 /*BANNER*/ 
 
 #banner {
-    background: linear-gradient(rgba(0,0,0,0.5),#efefef), url(img/banner-3.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),#5c5252), url(img/banner-3.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -25,7 +25,8 @@
 }
 .banner-text h1 {
     font-size: 130px;
-    font-family: 'Kaushan Script', cursive;
+    font-family: 'Impact', cursive;
+    letter-spacing: 10px;
 }
 .banner-text p {
     font-size: 20px;
@@ -40,7 +41,7 @@
     display: inline-block;
     margin: 0 10px;
     padding: 12px 0;
-    color: rgb(0, 0, 0);
+    color: rgb(236, 229, 229);
     border: .5px solid rgb(0, 0, 0);
     position: relative;
     z-index: 1;
