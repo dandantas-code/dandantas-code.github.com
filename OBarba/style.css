@@ -25,8 +25,8 @@
 }
 .banner-text h1 {
     font-size: 130px;
-    font-family: 'Impact', cursive;
-    letter-spacing: 10px;
+    font-family: 'League Gothic', sans-serif, cursive;
+    letter-spacing: 5px;
 }
 .banner-text p {
     font-size: 20px;
